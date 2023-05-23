@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599053960964",
+    "project_id": "gihoon-544ed",
+    "storage_bucket": "gihoon-544ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599053960964:android:a9bc373b95aa72fa69b251",
+        "android_client_info": {
+          "package_name": "com.example.video_player_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599053960964-ekv4ciqnn1gb8asa0522bvd95phorvb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQ0afoav2zu_zCRBkk-OUzOax65iGIPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599053960964-ekv4ciqnn1gb8asa0522bvd95phorvb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
